@@ -6,24 +6,23 @@
     <description>Recent content in Pages on TAML</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Thu, 06 Dec 2018 09:29:16 +1000</lastBuildDate><atom:link href="/pages/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 07 Jan 2022 09:29:16 +1000</lastBuildDate><atom:link href="/pages/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
       <link>/about/</link>
-      <pubDate>Thu, 06 Dec 2018 09:29:16 +1000</pubDate>
+      <pubDate>Fri, 07 Jan 2022 09:29:16 +1000</pubDate>
       
       <guid>/about/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>History</title>
-      <link>/history/</link>
-      <pubDate>Thu, 06 Dec 2018 09:29:16 +1000</pubDate>
+      <title>Recruit</title>
+      <link>/recruit/</link>
+      <pubDate>Fri, 07 Jan 2022 09:29:16 +1000</pubDate>
       
-      <guid>/history/</guid>
-      <description>About Heading 现在我们不招人，谢谢。
-    </description>
+      <guid>/recruit/</guid>
+      <description>About Heading ただいまは募集計画がありません     </description>
     </item>
     
   </channel>
